@@ -1,6 +1,9 @@
+
 const Work = () => {
   return (
-    <div>Work page</div>
+    <div>
+      work page
+    </div>
   )
 }
 
